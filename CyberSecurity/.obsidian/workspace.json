@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a038a47175fea9d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8b1aba292aefea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d6ae60d4a128fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowlegde/Web Fundamentals/16-SSTI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16-SSTI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae4847eb0446a64d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bca93b0f51b8560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc84008647ca088e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6dcbfcd20edbabd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ec6a25fdf058963",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a787c9d7bd53c292",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b5465047fdf0af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c5ab48589d6fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book/The Web Application Hacker Handbook/Web App Hacking (Hackers Handbook).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Web App Hacking (Hackers Handbook)"
+            }
+          },
+          {
+            "id": "ca9c4e2727863fd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/CaseStudy Joomla.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CaseStudy Joomla"
+            }
+          },
+          {
+            "id": "4bfd0ba3730ca895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "634e2334b4139f85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7209f63b759fadd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/CaseStudy Joomla.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CaseStudy Joomla"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e1d6ae60d4a128fa",
+  "lastOpenFiles": [
+    "Knowlegde/Web Fundamentals/9-XSS.md",
+    "Knowlegde/Web Fundamentals/4-SQL Injection.md",
+    "Excalidraw/Union - SQL Injection.md",
+    "roadmap_to_BSCP.md",
+    "Vocabulary.md",
+    "Knowlegde/Web Fundamentals/3-Web Knowledge.md",
+    "Untitled.base",
+    "Attachments/Pasted image 20260726204329.png",
+    "Writeup/PicoCTF/JAuth.md",
+    "Book/The Web Application Hacker Handbook/Introduction.md",
+    "Book/The Web Application Hacker Handbook/Overview.md",
+    "Burpsuite/Overview.md",
+    "Cheatsheet/PHP Login Bypass.md",
+    "Burpsuite",
+    "Overview.md",
+    "roadmap.md",
+    "Writeup/Bandit/Note.md",
+    "Knowlegde/Web Fundamentals/5-Broken Access Control.md",
+    "Knowlegde/Web Fundamentals/6-Broken Authentication.md",
+    "Knowlegde/Web Fundamentals/7-LFI & RFI.md",
+    "Knowlegde/Web Fundamentals/8-Arbitrary File Read&Write.md",
+    "Knowlegde/Web Fundamentals/11-Arbitrary File Upload.md",
+    "Knowlegde/Web Fundamentals/10-CSRF.md",
+    "Knowlegde/Web Fundamentals/Web LLM attacks.md",
+    "Knowlegde/Web Fundamentals/Blind SSFR.md",
+    "Knowlegde/Web Fundamentals/15-Business Logic Issue.md",
+    "Knowlegde/Web Fundamentals/14-Cross-Origin Resource Sharing (CORS).md",
+    "Knowlegde/Web Fundamentals/13-Known Component Plugin Vulnerability.md",
+    "Knowlegde/Web Fundamentals/2-Command Injection.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Book/The Web Application Hacker Handbook/Web App Hacking (Hackers Handbook).pdf",
+    "Book/The Web Application Hacker Handbook",
+    "Book",
+    "Attachments/Pasted Image 20260704140328_592.png",
+    "Attachments/Pasted image 20260702145357.png",
+    "Attachments/Pasted image 20260702145344.png",
+    "Attachments/Pasted image 20260702141218.png",
+    "Attachments/Pasted image 20260701141749.png",
+    "Knowlegde/Cryptography",
+    "Excalidraw",
+    "Attachments/Pasted image 20260624004543.png",
+    "Attachments/Pasted image 20260624004512.png",
+    "Attachments/Pasted image 20260624004508.png",
+    "Attachments/Pasted image 20260624004500.png",
+    "Untitled 1",
+    "Cheatsheet",
+    "plan.md.tmp.4940.17f779089372"
+  ]
+}
